@@ -1,4 +1,4 @@
-#### 📌 Project Overview
+#### Project Overview
 - **Project Name**:an Airbnb clone
 - **Purpose**: To build a full-stack web application that mimics the core functionality of Airbnb.
 - **Goals**:
@@ -10,7 +10,7 @@
 
 ---
 
-#### 🧰 Tech Stack
+#### Tech Stack
 | Layer         | Technologies Used                          |
 |--------------|---------------------------------------------|
 | **Frontend** | HTML, CSS, JavaScript (React or similar)    |
