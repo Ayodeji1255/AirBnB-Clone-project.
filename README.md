@@ -1,5 +1,4 @@
-#### Project Overview
-- **Project Name**:an Airbnb clone
+Project Name* Airbnb clone
 - **Purpose**: To build a full-stack web application that mimics the core functionality of Airbnb.
 - **Goals**:
   - Allow users to browse property listings
@@ -10,7 +9,7 @@
 
 ---
 
-#### Tech Stack
+ Tech Stack
 | Layer         | Technologies Used                          |
 |--------------|---------------------------------------------|
 | **Frontend** | HTML, CSS, JavaScript (React or similar)    |
