@@ -1,6 +1,6 @@
 Project Name* Airbnb clone
 - **Purpose**: To build a full-stack web application that mimics the core functionality of Airbnb.
-- **Goals**:
+- Goals
   - Allow users to browse property listings
   - View detailed property information
   - Complete secure bookings
