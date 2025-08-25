@@ -87,3 +87,20 @@ It improves customer satisfaction
 
 It supports accessibility and responsiveness
 
+
+---
+
+###Project Roles and Responsibilities
+
+| **Role**              | **Key Responsibilities**                                                                 | **Contribution to Project Success**                                                                 |
+|-----------------------|------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
+| **Project Manager**   | Coordinates timelines, manages deliverables, and ensures team alignment.                | Keeps the project on track and ensures smooth collaboration across roles.                           |
+| **Frontend Developers** | Build responsive UI components using HTML, CSS, and JavaScript (React or similar).     | Deliver intuitive, mobile-first user interfaces that enhance user experience.                       |
+| **Backend Developers** | Develop APIs, manage databases, and implement business logic.                           | Ensure robust data handling and secure booking functionality.                                       |
+| **Designers**         | Create mockups in Figma, define color schemes and typography, and maintain design consistency. | Shape the visual identity and usability of the platform.                                            |
+| **QA/Testers**        | Write test cases, conduct manual and automated testing, and report bugs.                | Guarantee reliability and performance through rigorous testing.                                     |
+| **DevOps Engineers**  | Set up CI/CD pipelines, manage deployment, and maintain server infrastructure.          | Enable smooth deployment and scalability of the application.                                        |
+| **Product Owner**     | Define feature requirements, prioritize tasks, and represent stakeholder interests.      | Align development with user needs and business goals.                                               |
+| **Scrum Master**      | Facilitate Agile ceremonies, remove blockers, and promote team efficiency.              | Foster a productive Agile workflow and ensure continuous progress.                                  |
+
+---
