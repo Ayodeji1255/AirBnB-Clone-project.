@@ -46,6 +46,34 @@ User authentication
 | **Listing Detailed View**   |Shows full property details including images, amenities, and booking form.      |
 | **Simple Checkout View** |Provides a clean interface for payment and booking confirmation.                       |
 
+UI/UX Design Planning.
+
+---
+
+## UI Component Patterns
+```
+
+### Component Descriptions
+You’ll describe the core UI components you plan to build. Based on the project page, here are the three primary ones:
+
+| Component      | Description                                                                 |
+|----------------|-----------------------------------------------------------------------------|
+| **Navbar**     | Includes logo, search bar, user navigation, and a responsive menu.          |
+| **Property Card** | Displays property image, price, location, rating, and a favorite button.   |
+| **Footer**     | Contains site links, company info, social media icons, and copyright.       |
+
+Each component should be designed for:
+- **Reusability**: Used across multiple pages
+- **Consistency**: Matches the design system (colors, typography)
+- **Responsiveness**: Works well on mobile and desktop
+
+---
+## Why It Matters
+Documenting UI component patterns helps:
+- Streamline development and reduce duplication
+- Improve maintainability and scalability
+- Align with modern frontend best practices (especially in frameworks like React)
+
 
 
  Importance of a User-Friendly Design
